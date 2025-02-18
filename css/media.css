@@ -373,7 +373,7 @@
     }
     .popupPolit {
         & .politica {
-            width: 60%;
+            width: 90%;
             height: 70%;
             & h1 {
                 font-size: 1.5rem;
